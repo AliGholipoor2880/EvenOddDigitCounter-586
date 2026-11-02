@@ -42,7 +42,7 @@
 
 ## نمایش پروژه
 
-[Live Demo – مشاهده آنلاین پروژه](https://aligholipoor2880.github.io/EvenOddDigitCounter/)
+[Live Demo – مشاهده آنلاین پروژه](https://aligholipoor2880.github.io/EvenOddDigitCounter-586/)
 
 ## توسعه‌دهنده
 
@@ -94,7 +94,7 @@ This project is mainly a JavaScript practice exercise covering:
 
 ## Live Demo
 
-[View Project Online]()
+[View Project Online](https://aligholipoor2880.github.io/EvenOddDigitCounter-586/)
 
 ## Developer
 
