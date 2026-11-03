@@ -1,6 +1,6 @@
 # EvenOddDigitCounter
 
-## 🇮🇷 معرفی پروژه
+## معرفی پروژه
 
 این پروژه یک تمرین عملی با JavaScript است که با هدف تقویت مهارت برنامه‌نویسی و کار با اعداد و رشته‌ها طراحی شده است.
 
@@ -52,7 +52,7 @@ Ali Gholipoor
 
 # EvenOddDigitCounter
 
-## 🇬🇧 About
+##  About
 
 EvenOddDigitCounter is a practical JavaScript exercise designed to improve programming skills and practice working with numbers and strings.
 
